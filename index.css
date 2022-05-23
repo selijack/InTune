@@ -359,7 +359,7 @@ h2 {
 @media(max-width: 700px) {
     #email {
         position: absolute;
-        left: 10%;
+        left: 8%;
     }
     #phone {
         position: absolute;
